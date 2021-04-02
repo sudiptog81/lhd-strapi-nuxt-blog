@@ -1,4 +1,4 @@
-# my-blog
+# sudipto-g-codes
 
 ## Build Setup
 
